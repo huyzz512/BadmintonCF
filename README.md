@@ -57,17 +57,6 @@ Bash
 php artisan serve
 Truy cập địa chỉ: http://127.0.0.1:8000
 
-🔐 Thông tin đăng nhập mặc định (Dành cho Test)
-👔 Tài khoản Admin (Quản trị viên)
-Email: admin@example.com
-
-Mật khẩu: password
-
-👤 Tài khoản Customer (Khách hàng)
-Email: customer@example.com
-
-Mật khẩu: password
-
 ✨ Các tính năng chính của hệ thống
 Người dùng: Xem sản phẩm, Tìm kiếm, Giỏ hàng, Đặt hàng, Lịch sử đơn hàng cá nhân.
 
